@@ -1,4 +1,4 @@
-# SegmentedLungCXRs
+# N-CLAHE Lung Medical Images
 A Repository of N-CLAHE histogram equalized Lung medical images (CXR, CT and Ultrasound) for Training of Deep Learning Models
 
 One of the key challenges in building machine learning models for medical images is the variability in the quality of the images within and between sources, especially where certain conditions (such as COVID-19) are primarily located at a single sources such as https://github.com/ieee8023/covid-chestxray-dataset, https://github.com/jannisborn/covid19_pocus_ultrasound and https://github.com/UCSD-AI4H/COVID-CT.
